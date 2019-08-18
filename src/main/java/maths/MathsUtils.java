@@ -1,3 +1,5 @@
+package maths;
+
 /**
  * Created by Bushy-Netshidaulu
  * on 8/18/2019.
